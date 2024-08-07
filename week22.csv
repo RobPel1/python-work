@@ -1,0 +1,17 @@
+Job_name,Job_url,Job_color
+agent-job,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/agent-job/,blue
+ansible-pipeline,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/ansible-pipeline/,blue
+ansible-playbook,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/ansible-playbook/,blue
+first,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/first/,blue
+first-pipeline-job,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/first-pipeline-job/,blue
+geosolution,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/geosolution/,blue
+hotseat1,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/hotseat1/,blue
+hotseat2,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/hotseat2/,blue
+Job-with-parameters,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/Job-with-parameters/,blue
+mavenproject,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/mavenproject/,blue
+nodejs-app,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/nodejs-app/,blue
+QA Config,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/QA%20Config/,
+recurrent-job,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/recurrent-job/,blue
+run-script,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/run-script/,notbuilt
+slack-test,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/slack-test/,blue
+terraform-code-dev,http://ec2-44-204-219-19.compute-1.amazonaws.com:8080/job/terraform-code-dev/,blue
